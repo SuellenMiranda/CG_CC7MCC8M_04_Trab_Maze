@@ -9,6 +9,8 @@ graph TD;
 A[CG_CC7MCC8M_04_Trab_Maze] --> B[Assets] --> C[Sounds] --> D[Sound Track]
 ```
 
+adendo: tem que ser na pasta Sound Track dentro do arquivo baixado do github e abre as pastas até achar a pasta certa
+
 #### contribuidores:
 
 > Gustavo Vazzoler Spelta;
